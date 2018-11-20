@@ -1,0 +1,2 @@
+# pemangilshort
+safelinkku generator
